@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pigeon Hole](https://github.com/DevWolf90/PigeonHole)
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **JAVASCRIPT**
 
 - 📫 How to reach me **Jkoporo@gmail.com**
 
